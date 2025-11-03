@@ -1,0 +1,28 @@
+css-cascading style sheet
+three ways of init: inline, external, and internal
+e.g,  tag style=""..inline
+internal=tags-<style></style>
+
+selector
+element
+class-give an element  a class attribute using any name, then call with a .
+ID-give an element any name then call an id using #
+find about more selectors...assignment 1
+
+
+
+font styling:
+font families
+font CDN
+font size, weight
+
+
+
+families:
+serif- cap and shoe
+san serif- clean
+mono spacing- it comes with space
+decorative/fantasy
+handwriting/cursive
+
+customized font cant be easy clone, but one can search for a font that is close to it.
