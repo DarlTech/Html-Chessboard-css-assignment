@@ -1,7 +1,8 @@
 css-cascading style sheet
 three ways of init: inline, external, and internal
 e.g,  tag style=""..inline
-internal=tags-<style></style>
+internal=tags-<style></style>(under head tag)
+introducing css file: a tag in the head(external)
 
 selector
 element
